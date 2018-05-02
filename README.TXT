@@ -28,3 +28,6 @@ Resulting files are copied to ./package
 Again, this is only needed for distribution, uncompressed files are about 300mb, and around 130mb when compressed.
 
 Any further issues you can contact ideasman42@gmail.com
+
+# 亲测视频
+![screen.mp4](screen.mp4)
